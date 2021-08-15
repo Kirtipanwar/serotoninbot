@@ -17,8 +17,5 @@ function f(flag) {
   }
 }
 
-// arguments is nothing but an array like object
-
 console.log(f("m", 2, 4));
 console.log(f("a", 2, 4));
-© 2021 GitHub, Inc.
